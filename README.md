@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DPO Pay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://dpogroup.com/
+DPO Pay provides secure online payment solutions across Africa, offering a range of products such as mobile POS, network POS, easy‑scan, ecommerce payment links and invoicing. Operating in over 20 countries, it enables merchants to accept multiple payment methods, including cards and mobile money, with fraud protection and PCI‑DSS Level 1 compliance. The platform serves thousands of businesses, delivering fast, reliable transactions and comprehensive integration options for shopping carts and hotel management platforms.
+
+**Areas:** Company · Payments · Africa · FinTech · E‑commerce
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dpogroup.com/)
+- [Getting started](https://dpogroup.com/get-started-2)
+- [Support](https://dpogroup.com/contact-us)
+- [Blog](https://dpogroup.com/blog)
+- [Compliance](https://dpogroup.com/compliance/)
+- [Terms of service](https://dpogroup.com/terms-and-conditions-of-use/)
+- [Privacy policy](https://dpogroup.com/privacy-policy/)
+- [GitHub](https://github.com/DPO-Group)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dpo-pay/](https://apis.io/providers/dpo-pay/).
